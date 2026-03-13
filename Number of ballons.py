@@ -8,5 +8,5 @@ class Solution(object):
         l = count.get('l', 0) // 2
         o = count.get('o', 0) // 2
         n = count.get('n', 0)
-        return min(b, a, l, o, n)
+        return min(b, a,l, o, n)
         
